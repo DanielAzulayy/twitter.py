@@ -1,5 +1,5 @@
 # twitter.py
-twitter.py is a bot that runs Python code inside Twitter! 
+twitter.py is a bot that runs Python code inside Twitter, it can also be used as a C&C to execute commands on a target.
 
 Popping a calculator:
 
