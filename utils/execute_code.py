@@ -3,7 +3,6 @@ from io import StringIO
 
 
 def execute_python(code: str):
-    # TODO: a better way to parse code
     code = f"""\
     {code}
     """
