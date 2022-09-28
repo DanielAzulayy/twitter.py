@@ -12,7 +12,7 @@ def run_bot():
 
 
 scheduler = BackgroundScheduler()
-scheduler.add_job(func=run_bot, trigger="interval", seconds=60)
+scheduler.add_job(func=run_bot, trigger="interval", seconds=5)
 scheduler.start()
 
 
