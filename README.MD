@@ -1,7 +1,11 @@
 # twitter.py
 twitter.py is a bot that runs Python code inside Twitter! 
 
-[](https://i.imgur.com/cgx8IF8.mp4)
+Popping a calculator:
+
+https://user-images.githubusercontent.com/69147968/192907112-35b22694-1779-409e-a3ec-ca599a2e1d71.mov
+
+
 
 
 ## TODO
