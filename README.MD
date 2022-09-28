@@ -4,8 +4,8 @@ twitter.py is a bot that runs Python code inside Twitter!
 
 ## TODO
 - [ ] Find a better way to parse valid Python code (AST)
-- [ ] C&C option
-- [ ] Add scheduler to run every x seconds
+- [x] C&C option
+- [x] Add scheduler to run every x seconds
 - [ ] Deploy to a cloud/Raspberry Pi
 
 ## Contributing
