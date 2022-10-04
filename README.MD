@@ -6,6 +6,8 @@ Popping a calculator:
 https://user-images.githubusercontent.com/69147968/192907112-35b22694-1779-409e-a3ec-ca599a2e1d71.mov
 
 
+## Prerequisites
+If you want to run this bot, make sure you created a Twitter App and received your APIs keys. More info  [here](https://developer.twitter.com/apps)
 
 
 ## TODO
